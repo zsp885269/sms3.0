@@ -1,0 +1,278 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.toubu{
+	height: 200px;
+	background:url(../images/4.png) repeat-x 0 0;
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.toubu .toubu_top{
+	width: 100%;
+	height: 100%;
+	display: block;
+	position: absolute;
+	top: 34px;
+	left: 0;
+	background:url(../images/3.png) no-repeat center 0;
+}
+.toubu .toubu_ul{
+	width: 1200px;
+	height: 100%;
+	position: relative;
+	margin:0 auto;
+}
+.logo{
+	width: 100%;
+	position: absolute;
+	top: 65px;
+	left: 0;
+	height: 71px;
+}
+.logo a{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.logo a .cn{
+	width: 100%;
+	height: 100%;
+	display: block;
+	background:url(../images/11.png) no-repeat 50% 0;
+}
+.shouye_a{
+    position: absolute;
+    bottom: 2px;
+    left: 200px;
+    height: 40px;
+    line-height: 40px;
+    text-align: right;
+    font-size: 1em;
+    width: 100%;
+}
+.shouye_a a {
+    color: #ffffff;
+    width: 75px;
+    float: left;
+    display: block;
+    text-align: center;
+    height: 42px;
+    line-height: 42px;
+    text-shadow: 0 0 3px #000;
+    padding: 0 15px;
+    font-size: 13px;
+}
+.con_img {
+	width: 1903px;
+    height: 280px;
+    background: url(../images/1.jpg) no-repeat center 0;
+    position: relative;
+    text-shadow: 0 0 3px #d0a658;
+}
+.wrap{
+	width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.con_img .img_wenzi {
+    font-size: 12px;
+    text-align: center;
+    vertical-align: middle;
+    color: #ffffff;
+    position: absolute;
+    right: 0;
+    top: 100px;
+}
+.con_img .img_wenzi h2 {
+    color: #ffffff;
+    font-size: 45px;
+    font-weight: normal;
+}
+.con_img .img_wenzi a {
+    color: #ffffff;
+    text-decoration: none;
+}
+.biewang {
+    width: 100%;
+    height: auto;
+    background-color: #f2f2f2;
+    padding-bottom: 64px;
+}
+.wrap{
+    width: 1200px;
+    margin: 0 auto;
+    position: relative;
+}
+.clearfix1{
+    display: block;
+}
+.biewang .boxL {
+    width: 956px;
+    float: left;
+    display: inline;
+}
+.tit06 {
+    height: 125px;
+    line-height: 125px;
+    font-size: 30px;
+}
+.block26 .innerleft {
+    background-color: #ffffff;
+    padding: 20px 30px;
+    border-top: 4px solid #1867a5;
+}
+.block26 .innerleft h2 {
+    font-size: 24px;
+    color: #231815;
+    font-weight: normal;
+    line-height: 38px;
+    margin-bottom: 10px;
+}
+.block26 .innerleft .other {
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+.block26 .innerleft .other .d {
+    color: #2052af;
+}
+.block26 .innerleft .other .tag {
+    color: #f7931e;
+}
+.block26 .innerleft .txt {
+    line-height: 23px;
+    color: #3e3a39;
+}
+.innerright{
+    width: 216px;
+    float: right;
+    display: inline;
+}
+.innerright .border{
+    background: url(image/9.png);
+    width: 100%;
+    height: 7px;
+    position: absolute;
+    top: -7px;
+    left: 0;
+    display: block;
+}
+.toubu_ul{
+    margin: 0 24px;
+}
+.txt01{
+    margin-bottom: 20px;
+}
+.bottom{
+    margin-top: 1200px;
+    width: 100%;
+    height: 460px;
+    background-color: #03256c;
+    position: relative;
+}
+.bottom_bjt{
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url(../images/6.png) no-repeat right 0;
+    position: absolute;
+}
+.clearfix{
+    position: absolute;
+    left:350px;
+    top: 88px;
+    display: block;
+}
+.innerLi{
+    float:left;
+    width:240px;
+}
+.block06{
+    width: 480px;
+    float: left;
+}
+.innerLi img{
+    display: block;
+    margin-bottom: 30px;
+}
+.block07 p a{
+    margin-left: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #e3a145;
+    text-decoration: none;
+}
+.block07 .p{
+    margin-top: 40px;
+    font-size: 14px;
+}
+.block07 .p a{
+    text-decoration: none;
+    color: white;
+}
+.block07 p a:hover{
+    text-decoration: block;
+}
+.block09{
+    text-align: center;
+    color: #2052af;
+    padding: 0 0 20px;
+    font-size: 12px;
+    position: absolute;
+    bottom: 50px;
+    left: 500px;
+}
+.biewang .boxR {
+    width: 216px;
+    float: right;
+    display: inline;
+    border:1px solid red;
+}
+.block30 {
+    background: url(../images/9.png) no-repeat 0 0;
+    position: relative;
+    padding-bottom: 20px;
+}
+.block30 .border{
+    background: url(../images/10.png);
+    width: 100%;
+    height: 7px;
+    position: absolute;
+    top: -7px;
+    left: 0;
+    display: block;
+}
+.block30 .inner {
+    margin: 0 24px;
+}
+.block30 .tit {
+    font-size: 13px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom: 1px solid #f15a24;
+    padding: 10px 0 5px;
+    margin-bottom: 10px;
+}
+.block30 .tit h2 {
+    font-weight: normal;
+}
+.block30 .txt01 {
+    margin-bottom: 20px;
+}
+.block30 .txt01 .t {
+    font-size: 13px;
+    color: #ffffff;
+    margin-bottom: 2px;
+}
+.block30 .txt01 .d {
+    font-size: 14px;
+    color: #f15a24;
+    line-height: 22px;
+}
+.block30 .txt01 .d a {
+    color: #f15a24;
+}
